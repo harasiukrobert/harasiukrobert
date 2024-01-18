@@ -4,6 +4,10 @@ I'm a beginner programmer who is just learning, and I don't know everything, but
 
 Skills: Python / C++
 
+- 🌱 I’m currently learning everything 
+- 📫 How to reach me: harasiuk.j.robert@gmail.com 
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/harasiukrobert)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/robert.harasiuk)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harasiukrobert)](https://github.com/anuraghazra/github-readme-stats)
