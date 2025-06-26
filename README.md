@@ -2,7 +2,7 @@
 #### IT student and beginner programmer.
 I'm a beginner programmer who is just learning, and I don't know everything, but one day I will know...
 
-Skills: Python / C++
+Skills: Python
 
 - 🌱 I’m currently learning everything 
 - 📫 How to reach me: harasiuk.j.robert@gmail.com 
