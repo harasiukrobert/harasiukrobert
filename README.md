@@ -1,43 +1,60 @@
-![Developer GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+<img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Programmer Illustration" title="Illustration by Storyset" width=450/>
+    
+<h1 align="left">Hi 👋🏽, I'm Robert Harasiuk</h1>
 
-<h2 align="left">Cześć, jestem <a href="https://www.linkedin.com/in/robert-harasiuk" target="_blank" rel="noopener noreferrer">Robert Harasiuk</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
-<a href="https://github.com/harasiukrobert"><img align='right' src='https://github-readme-stats.vercel.app/api/pin/?username=harasiukrobert&repo=Collaborative_Filtering_Movie_Recommendation&theme=blue-green&border_radius=10' width='350'></a>
-</h2>
+![Profile views](https://gpvc.arturio.dev/harasiukrobert)
 
-- [cite_start]🎓 Jestem studentem **Informatyki** na **Uniwersytecie Komisji Edukacji Narodowej w Krakowie**. [cite: 99, 100, 101]
-- [cite_start]👨‍💻 Posiadam roczne doświadczenie komercyjne jako **Młodszy Automatyk Testów**. [cite: 21, 25]
-- [cite_start]🤖 Pasjonuję się **uczeniem maszynowym**, realizowałem projekty z zakresu detekcji obiektów i systemów rekomendacyjnych przy użyciu PyTorch. [cite: 22, 83, 90]
-- ⚡ W wolnym czasie lubię odkrywać nowe technologie i pracować nad osobistymi projektami programistycznymi.
+<h3 align="left">I have a passion for programming and technology! 🚀</h3>
 
-#### Języki i narzędzia
-<p>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C"></code>
-  <code><img height="25" src="https://www.vectorlogo.zone/logos/robotframework/robotframework-icon.svg" alt="Robot Framework"></code>
-  <code><img height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure DevOps"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"></code>
-  <code><img height="25" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch"></code>
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV"></code>
-</p>
+<div align="left">
+    <h3>👨‍💻 About me:</h3>
+        [cite_start]<p>• 🎓 I’m a <b>Computer Science</b> student at the <b>University of the National Education Commission in Krakow</b>. [cite: 99, 100, 101]</p>
+        [cite_start]<p>• 💼 I have one year of commercial experience as a <b>Junior Test Automator</b>. [cite: 21, 25]</p>
+        [cite_start]<p>• 🌱 I’m currently learning <b>Django</b> [cite: 78] and will be launching my portfolio website soon.</p>
+        [cite_start]<p>• 🤖 I'm passionate about <b>machine learning</b>, as demonstrated by my projects in <b>object detection and recommendation systems</b>. [cite: 22, 83, 90]</p>
+        [cite_start]<p>• 📫 How to reach me: <b>harasiuk.j.robert@gmail.com</b> [cite: 4, 51]</p>
+</div><br>
 
-<br />
+<div align="center">
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=harasiukrobert&show_icons=true&theme=blue-green&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=fafafa" alt="Robert Harasiuk's GitHub Stats" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=harasiukrobert&show_icons=true&theme=blue-green&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=fafafa" alt="Robert Harasiuk's Top Langs" />
+</div>
+    
+---
 
-[![Robert's github stats](https://github-readme-stats.vercel.app/api?username=harasiukrobert&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&include_all_commits=true)](https://github.com/harasiukrobert?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harasiukrobert&layout=compact&langs_count=6&theme=blue-green)](https://github.com/harasiukrobert)
+<div>
+  <h3>🧰 Languages and tools I use:</h3><br>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Python&color=%233776AB&style=for-the-badge&logo=python&logoColor=whitesmoke" alt="Python"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=C++&color=%2300599C&style=for-the-badge&logo=cplusplus&logoColor=whitesmoke" alt="C++"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=C&color=%23A8B9CC&style=for-the-badge&logo=c&logoColor=black" alt="C"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Robot%20Framework&color=%23000000&style=for-the-badge&logo=robot-framework&logoColor=whitesmoke" alt="Robot Framework"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Postman&color=%23FF6C37&style=for-the-badge&logo=postman&logoColor=whitesmoke" alt="Postman"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Swagger&color=%2385EA2D&style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"></a>
+    <br><br>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Azure%20DevOps&color=%230078D7&style=for-the-badge&logo=azure-devops&logoColor=whitesmoke" alt="Azure DevOps"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Docker&color=%232496ED&style=for-the-badge&logo=docker&logoColor=whitesmoke" alt="Docker"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=RabbitMQ&color=%23FF6600&style=for-the-badge&logo=rabbitmq&logoColor=whitesmoke" alt="RabbitMQ"></a>
+    <br><br>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=%2347A248&style=for-the-badge&logo=mongodb&logoColor=whitesmoke" alt="MongoDB"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=MySQL&color=%234479A1&style=for-the-badge&logo=mysql&logoColor=whitesmoke" alt="MySQL"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Django&color=%23092E20&style=for-the-badge&logo=django&logoColor=whitesmoke" alt="Django"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=PyTorch&color=%23EE4C2C&style=for-the-badge&logo=pytorch&logoColor=whitesmoke" alt="PyTorch"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Pandas&color=%23150458&style=for-the-badge&logo=pandas&logoColor=whitesmoke" alt="Pandas"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=OpenCV&color=%235C3EE8&style=for-the-badge&logo=opencv&logoColor=whitesmoke" alt="OpenCV"></a>
+</div>
 
-#### Znajdź mnie na
- <p align='left'>
-   <a href="https://www.linkedin.com/in/robert-harasiuk" target="_blank"><img height="32" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
-  <a href="https://github.com/harasiukrobert" target="_blank"><img height="32" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg"></a>&nbsp;&nbsp;
- </p>
+___
 
------
-Credits: [harasiukrobert](https://github.com/harasiukrobert)
+<div>
+  <h3>📱 Where to find me:</h3><br>
+    <a href="https://www.linkedin.com/in/robert-harasiuk" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
+    <a href="https://github.com/harasiukrobert" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Github&color=181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="Github"></a>
+</div>
+
+------
+
+Credit: [harasiukrobert](https://github.com/harasiukrobert)
+
+Last Edited on: July 29, 2025
