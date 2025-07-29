@@ -2,17 +2,15 @@
     
 <h1 align="left">Hi 👋🏽, I'm Robert Harasiuk</h1>
 
-![Profile views](https://gpvc.arturio.dev/harasiukrobert)
-
 <h3 align="left">I have a passion for programming and technology! 🚀</h3>
 
 <div align="left">
     <h3>👨‍💻 About me:</h3>
-        [cite_start]<p>• 🎓 I’m a <b>Computer Science</b> student at the <b>University of the National Education Commission in Krakow</b>. [cite: 99, 100, 101]</p>
-        [cite_start]<p>• 💼 I have one year of commercial experience as a <b>Junior Test Automator</b>. [cite: 21, 25]</p>
-        [cite_start]<p>• 🌱 I’m currently learning <b>Django</b> [cite: 78] and will be launching my portfolio website soon.</p>
-        [cite_start]<p>• 🤖 I'm passionate about <b>machine learning</b>, as demonstrated by my projects in <b>object detection and recommendation systems</b>. [cite: 22, 83, 90]</p>
-        [cite_start]<p>• 📫 How to reach me: <b>harasiuk.j.robert@gmail.com</b> [cite: 4, 51]</p>
+        <p>• 🎓 I’m a <b>Computer Science</b> student at the <b>University of the National Education Commission in Krakow</b>.</p>
+        <p>• 💼 I have one year of commercial experience as a <b>Junior Test Automator</b>.</p>
+        <p>• 🌱 I’m currently learning <b>Django</b> [cite: 78] and will be launching my portfolio website soon.</p>
+        [<p>• 🤖 I'm passionate about <b>machine learning</b>, as demonstrated by my projects in <b>object detection and recommendation systems</b>.</p>
+        <p>• 📫 How to reach me: <b>harasiuk.j.robert@gmail.com</b></p>
 </div><br>
 
 <div align="center">
@@ -53,8 +51,3 @@ ___
     <a href="https://github.com/harasiukrobert" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Github&color=181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="Github"></a>
 </div>
 
-------
-
-Credit: [harasiukrobert](https://github.com/harasiukrobert)
-
-Last Edited on: July 29, 2025
