@@ -9,7 +9,7 @@
         <p>• 🎓 I’m a <b>Computer Science</b> student at the <b>University of the National Education Commission in Krakow</b>.</p>
         <p>• 💼 I have one year of commercial experience as a <b>Junior Test Automator</b>.</p>
         <p>• 🌱 I’m currently learning <b>Django</b> [cite: 78] and will be launching my portfolio website soon.</p>
-        [<p>• 🤖 I'm passionate about <b>machine learning</b>, as demonstrated by my projects in <b>object detection and recommendation systems</b>.</p>
+        <p>• 🤖 I'm passionate about <b>machine learning</b>, as demonstrated by my projects in <b>object detection and recommendation systems</b>.</p>
         <p>• 📫 How to reach me: <b>harasiuk.j.robert@gmail.com</b></p>
 </div><br>
 
